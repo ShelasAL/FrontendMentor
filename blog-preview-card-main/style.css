@@ -109,29 +109,7 @@ body {
   font-family: fitgree;
   font-weight: 800;
 }
-@media (max-width: 600px) {
-  .card {
-    width: 275px;
-    border-radius: 10px;
-  }
-  .info h4 {
-    font-size: 12px;
-  }
-  .about a {
-    font-size: 16px;
-  }
-  .about p {
-    font-size: 12px;
-  }
-  .author img {
-    width: 28px;
-    height: 28px;
-  }
-  .author .name {
-    font-size: 11px;
-  }
-}
-@media (min-width: 1000px) {
+@media (min-width: 600px) {
   .card {
     width: 275px;
   }
@@ -152,7 +130,7 @@ body {
     font-size: 11px;
   }
 }
-@media (min-width: 300px) {
+@media (max-width: 300px) {
   .card {
     width: 200px;
     height: 300px;
@@ -177,31 +155,4 @@ body {
     font-size: 11px;
   }
 }
-@media (min-width:800px){
-  .card{
-    height: 400px;
-    width: 300px;
-  }
-  .info h4 {
-    font-size: 12px;
-  }
-  .info p{
-    font-size: 11px;
-  }
-  .about a {
-    font-size: 16px;
-  }
-  .about p {
-    font-size: 13px;
-  }
-  .author{
-    gap: 3px;
-  }
-  .author img {
-    width: 25px;
-    height: 25px;
-  }
-  .author .name {
-    font-size: 12px;
-  }
-}
+
