@@ -19,7 +19,7 @@ Mobile-
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://github.com/ShelasAL/FrontendMentor/tree/main/blog-preview-card-main)
 <!-- - Live Site URL:(https://your-live-site-url.com) -->
 
 ### Built with
