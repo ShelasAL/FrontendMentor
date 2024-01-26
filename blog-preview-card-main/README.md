@@ -11,9 +11,11 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 
 ### Screenshot
+PC-
+![](./screenshots/pc.png)  
 
-![](./screenshots/pc.png)  -PC
-![](./screenshots/mobile.png)  -Mobile
+Mobile-
+![](./screenshots/mobile.png)  
 
 ### Links
 
