@@ -131,7 +131,7 @@ body {
     font-size: 11px;
   }
 }
-@media (min-width: 600px) {
+@media (min-width: 1000px) {
   .card {
     width: 275px;
   }
@@ -152,7 +152,7 @@ body {
     font-size: 11px;
   }
 }
-@media (max-width: 300px) {
+@media (min-width: 300px) {
   .card {
     width: 200px;
     height: 300px;
@@ -175,5 +175,33 @@ body {
   .author .name {
     margin-top: 8px;
     font-size: 11px;
+  }
+}
+@media (min-width:800px){
+  .card{
+    height: 400px;
+    width: 300px;
+  }
+  .info h4 {
+    font-size: 12px;
+  }
+  .info p{
+    font-size: 11px;
+  }
+  .about a {
+    font-size: 16px;
+  }
+  .about p {
+    font-size: 13px;
+  }
+  .author{
+    gap: 3px;
+  }
+  .author img {
+    width: 25px;
+    height: 25px;
+  }
+  .author .name {
+    font-size: 12px;
   }
 }
