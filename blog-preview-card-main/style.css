@@ -109,6 +109,28 @@ body {
   font-family: fitgree;
   font-weight: 800;
 }
+@media (max-width: 600px) {
+  .card {
+    width: 275px;
+    border-radius: 10px;
+  }
+  .info h4 {
+    font-size: 12px;
+  }
+  .about a {
+    font-size: 16px;
+  }
+  .about p {
+    font-size: 12px;
+  }
+  .author img {
+    width: 28px;
+    height: 28px;
+  }
+  .author .name {
+    font-size: 11px;
+  }
+}
 @media (min-width: 600px) {
   .card {
     width: 275px;
@@ -155,4 +177,3 @@ body {
     font-size: 11px;
   }
 }
-
